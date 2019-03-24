@@ -39,6 +39,7 @@
 			line-height: 1.6;
 			display: inline;
 			font-family: 'Reenie Beanie';
+			font-weight: bold;
 		}
 		.onepage h2 {
 			font-size: 36px;
@@ -47,3 +48,6 @@
 			font-family: 'Reenie Beanie';
 		}
 
+		.coment {
+
+		}
